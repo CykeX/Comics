@@ -1,1 +1,2 @@
-# Comics
+# Comic Provider
+Includes: ReadComicOnline, ReadComicsOnline
